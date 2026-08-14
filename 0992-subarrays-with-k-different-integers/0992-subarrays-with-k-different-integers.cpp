@@ -1,14 +1,6 @@
 class Solution {
 public:
 
-/*
-exactly k=atmost (k) - atmost (k-1)
-say it has length=len
-then all values from x=0 to len are valid
-add them: len*(len+1)/2
-
-*/
-
     int atmost(vector<int> &nums, int k, int n){
         int i=0, j=0;
         unordered_map<int,int> f;
