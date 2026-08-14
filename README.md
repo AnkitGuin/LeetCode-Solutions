@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
