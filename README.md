@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -96,4 +97,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
