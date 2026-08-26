@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
