@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
