@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1029-two-city-scheduling](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1140-stone-game-ii](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1029-two-city-scheduling](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1029-two-city-scheduling](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [2029-stone-game-ix](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/AnkitGuin/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
